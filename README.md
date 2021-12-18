@@ -1,1 +1,1 @@
-# Mudragel_Dmytro
+# Mudragel_Dmytro You can open solution file WebAPI.sln to run tests. This project realises file uploading to dropbox server, checking file metadata and deleting file from dropbox server. For all stages was wrote NUnit tests.  

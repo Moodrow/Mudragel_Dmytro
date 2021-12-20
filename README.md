@@ -1,1 +1,1 @@
-# Mudragel_Dmytro the program runs as one test that logs into the page through a username and password, then adds the name of the employee and transfers the rest to another field. saves and then removes the added worker 
+# Mudragel_Dmytro 
